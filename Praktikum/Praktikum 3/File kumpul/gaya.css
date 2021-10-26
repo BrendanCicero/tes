@@ -1,0 +1,23 @@
+body{
+    background-color:darkslategrey;
+}
+
+.judul{
+    color: lightsalmon;
+}
+
+th{ /* class tag */
+    background-color: wheat; /*warna background table */
+    /* color: turquoise;  */ /*warna tulisan */
+}
+
+table{
+    background-color:skyblue;
+    border-color:seagreen;
+}
+
+#stok{ /* id tag */
+    background-color: tomato;
+    color: whitesmoke;
+}
+
